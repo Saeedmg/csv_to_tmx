@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+             <tmx version="1.4"><header creationdate="2021-07-20 20:59:26"
+             srclang= "en"
+             adminlang="en"
+             o-tmf="unknown"
+             segtype="sentence"
+             creationtool="Uplug"
+             creationtoolversion="unknown"
+             datatype="PlainText" />
+      <body>
+
+        <tu>
+         <tuv xml:lang="en">
+            <seg>hello my name is John.</seg>
+         </tuv>
+        <tuv xml:lang="fa">
+           <seg>سلام اسم من جان</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="en">
+            <seg>Today is Monday.</seg>
+         </tuv>
+        <tuv xml:lang="fa">
+           <seg>امروز دوشنبه است</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="en">
+            <seg>We are here for the party.</seg>
+         </tuv>
+        <tuv xml:lang="fa">
+           <seg>ما برای جشن اینجا آمدهایم</seg>
+         </tuv>
+        </tu>
+  	</body>
+  	      </tmx>
